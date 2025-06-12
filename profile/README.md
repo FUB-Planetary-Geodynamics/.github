@@ -11,5 +11,6 @@ This GitHub page hosts open-source software and tools developed by our team.
 
 ## Other Codes from Members of our Group
 
-| Repository | Description | Author |
-|------------|-------------|--------|
+| Name | Description | Author |
+|------|-------------|--------|
+| [ExoMDN](https://github.com/philippbaumeister/ExoMDN) | Machine-learning-based exoplanet interior characterization | Philipp Baumeister |
