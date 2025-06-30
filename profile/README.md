@@ -16,5 +16,5 @@ This GitHub page hosts open-source software and tools developed by our team.
 | Name | Description | Author |
 |------|-------------|--------|
 | [ExoMDN](https://github.com/philippbaumeister/ExoMDN) | Machine-learning-based exoplanet interior characterization | Philipp Baumeister |
-| [[1D-PIE](https://github.com/schmidtjm/1D-PIE) | 1D thermal evolution code for rocky planetary bodies | Julia M. Schmidt |
+| [1D-PIE](https://github.com/schmidtjm/1D-PIE) | 1D thermal evolution model for rocky planetary bodies | Julia M. Schmidt |
 
