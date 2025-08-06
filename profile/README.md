@@ -7,9 +7,9 @@ This GitHub page hosts open-source software and tools developed by our team.
 
 ## Featured Repositories
 
-| Repository | Description |
-|------------|-------------|
-
+| Repository | Description | Author |
+|------------|-------------|--------|
+| [Interior structure model](https://github.com/FUB-Planetary-Geodynamics/Interior-Structure-Model) | Interior structure model for rocky planets and water worlds | Lena Noack |
 
 ## Other Codes from Members of our Group
 
