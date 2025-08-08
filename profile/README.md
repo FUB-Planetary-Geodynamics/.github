@@ -9,7 +9,8 @@ This GitHub page hosts open-source software and tools developed by our team.
 
 | Repository | Description | Author |
 |------------|-------------|--------|
-| [ROWS Interior structure model](https://github.com/FUB-Planetary-Geodynamics/Interior-Structure-Model) | Interior structure model for rocky planets and ocean worlds | Lena Noack |
+| [ROWS Interior structure model](https://github.com/FUB-Planetary-Geodynamics/ROWS_Interior-Structure-Model) | Interior structure model for rocky planets and ocean worlds | Lena Noack |
+| [PyCCon](https://github.com/FUB-Planetary-Geodynamics/PyCCon) | Python Code for Convection | Lena Noack |
 
 ## Other Codes from Members of our Group
 
