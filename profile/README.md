@@ -9,7 +9,7 @@ This GitHub page hosts open-source software and tools developed by our team.
 
 | Repository | Description | Author |
 |------------|-------------|--------|
-| [ROWS Interior structure model](https://github.com/FUB-Planetary-Geodynamics/Interior-Structure-Model) | Interior structure model for rocky planets and water worlds | Lena Noack |
+| [ROWS Interior structure model](https://github.com/FUB-Planetary-Geodynamics/Interior-Structure-Model) | Interior structure model for rocky planets and ocean worlds | Lena Noack |
 
 ## Other Codes from Members of our Group
 
